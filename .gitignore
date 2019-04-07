@@ -1,0 +1,8 @@
+.tmp
+node_modules/
+bower_components/
+.DS_Store
+haters/
+*.log
+updates/
+dist/
